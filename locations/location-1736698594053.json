@@ -1,0 +1,1197 @@
+{
+   "plus_code" : 
+   {
+      "compound_code" : "F9GJ+XM8 Kolkata, West Bengal, India",
+      "global_code" : "7MJCF9GJ+XM8"
+   },
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Phulbagan Road",
+               "short_name" : "Phulbagan Rd",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Rabindrapally",
+               "short_name" : "Rabindrapally",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Garia",
+               "short_name" : "Garia",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700084",
+               "short_name" : "700084",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "2, Phulbagan Rd, Rabindrapally, Garia, Kolkata, West Bengal 700084, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4774218,
+                  "lng" : 88.38200929999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4772689,
+                  "lng" : 88.3817971
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4773453,
+               "lng" : 88.3819032
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4786943302915,
+                  "lng" : 88.38325218029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4759963697085,
+                  "lng" : 88.3805542197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4773496,
+                  "longitude" : 88.38189029999999
+               }
+            }
+         ],
+         "place_id" : "ChIJo4cB1AxxAjoRbDft7WciSLw",
+         "types" : 
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "D74",
+               "short_name" : "D74",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Phool Bagan Road",
+               "short_name" : "Phool Bagan Rd",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Rabindrapally",
+               "short_name" : "Rabindrapally",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Garia",
+               "short_name" : "Garia",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700084",
+               "short_name" : "700084",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "D74, Phool Bagan Rd, Rabindrapally, Garia, Kolkata, West Bengal 700084, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.4771225,
+               "lng" : 88.38177469999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4784714802915,
+                  "lng" : 88.3831236802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4757735197085,
+                  "lng" : 88.3804257197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4771141,
+                  "longitude" : 88.3818005
+               }
+            }
+         ],
+         "place_id" : "ChIJIy-p0QxxAjoRS-3RqYy_3C4",
+         "plus_code" : 
+         {
+            "compound_code" : "F9GJ+RP Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9GJ+RP"
+         },
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "F9GJ+XM",
+               "short_name" : "F9GJ+XM",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "F9GJ+XM Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4775,
+                  "lng" : 88.38175
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.477375,
+                  "lng" : 88.381625
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4774063,
+               "lng" : 88.381692
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4787864802915,
+                  "lng" : 88.38303648029149
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4760885197085,
+                  "lng" : 88.38033851970849
+               }
+            }
+         },
+         "place_id" : "GhIJhGedTDd6NkARRUlIpG0YVkA",
+         "plus_code" : 
+         {
+            "compound_code" : "F9GJ+XM Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9GJ+XM"
+         },
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Phulbagan Road",
+               "short_name" : "Phulbagan Rd",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Rabindrapally",
+               "short_name" : "Rabindrapally",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Ganguly Bagan",
+               "short_name" : "Ganguly Bagan",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700047",
+               "short_name" : "700047",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Phulbagan Rd, Rabindrapally, Ganguly Bagan, Kolkata, West Bengal 700047, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4774671,
+                  "lng" : 88.381866
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4769096,
+                  "lng" : 88.3816502
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4771888,
+               "lng" : 88.3817567
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4785373302915,
+                  "lng" : 88.38310708029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4758393697085,
+                  "lng" : 88.3804091197085
+               }
+            }
+         },
+         "place_id" : "ChIJRa_i0AxxAjoRzC_AYXcssaA",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "700084",
+               "short_name" : "700084",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal 700084, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4796695,
+                  "lng" : 88.4079036
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4463151,
+                  "lng" : 88.3649022
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4600098,
+               "lng" : 88.38217069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4796695,
+                  "lng" : 88.4079036
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4463151,
+                  "lng" : 88.3649022
+               }
+            }
+         },
+         "place_id" : "ChIJdZ2XPZpxAjoRvS7fW88MrMU",
+         "types" : 
+         [
+            "postal_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Garia",
+               "short_name" : "Garia",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Garia, Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4815778,
+                  "lng" : 88.4155509
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.443312,
+                  "lng" : 88.36478959999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4660129,
+               "lng" : 88.3928446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4815778,
+                  "lng" : 88.4155509
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.443312,
+                  "lng" : 88.36478959999999
+               }
+            }
+         },
+         "place_id" : "ChIJU8pSDaBxAjoReuOCoXYeyYQ",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_4",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743495,
+               "lng" : 88.36287209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJSQj3vT53AjoRCGDPVMElHKo",
+         "types" : 
+         [
+            "administrative_area_level_4",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743545,
+               "lng" : 88.3628734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743499,
+               "lng" : 88.36287670000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJyxufaAB3AjoRzhRx7JWHIFw",
+         "types" : 
+         [
+            "administrative_area_level_3",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Presidency Division, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4234018,
+               "lng" : 88.63378399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            }
+         },
+         "place_id" : "ChIJSRZpzrGDAjoRZIV1cudPl5Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

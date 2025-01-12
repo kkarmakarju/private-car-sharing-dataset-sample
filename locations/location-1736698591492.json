@@ -1,0 +1,1730 @@
+{
+   "plus_code" : 
+   {
+      "compound_code" : "F9P2+2RJ Kolkata, West Bengal, India",
+      "global_code" : "7MJCF9P2+2RJ"
+   },
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "F9P2+3Q8",
+               "short_name" : "F9P2+3Q8",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Regent Colony",
+               "short_name" : "Regent Colony",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "F9P2+3Q8, Regent Colony, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.485182,
+                  "lng" : 88.3520084
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4850581,
+                  "lng" : 88.35190519999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.485109,
+               "lng" : 88.3519651
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4864690302915,
+                  "lng" : 88.35330578029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4837710697085,
+                  "lng" : 88.3506078197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4851105,
+                  "longitude" : 88.35196790000001
+               }
+            }
+         ],
+         "place_id" : "ChIJd_7pQO9wAjoRf_NbYhdr6mo",
+         "types" : 
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Tolly Regency",
+               "short_name" : "Tolly Regency",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "95 A",
+               "short_name" : "95 A",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "NSC Bose Road",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Composite Housing Estate",
+               "short_name" : "Composite Housing Estate",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Tolly Regency, 95 A, Netaji Subhash Chandra Bose Rd, Composite Housing Estate, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.4851207,
+               "lng" : 88.3519592
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4864696802915,
+                  "lng" : 88.35330818029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4837717197085,
+                  "lng" : 88.35061021970849
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4851217,
+                  "longitude" : 88.3519611
+               }
+            }
+         ],
+         "place_id" : "ChIJ08RYZBVxAjoRMglXjhIwyZI",
+         "plus_code" : 
+         {
+            "compound_code" : "F9P2+2Q Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9P2+2Q"
+         },
+         "types" : 
+         [
+            "electronics_store",
+            "establishment",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "NSC Bose Road",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Azadgarh",
+               "short_name" : "Azadgarh",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "22, Netaji Subhash Chandra Bose Rd, Azadgarh, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.4851304,
+               "lng" : 88.35187639999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4864793802915,
+                  "lng" : 88.35322538029149
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4837814197085,
+                  "lng" : 88.35052741970848
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4851611,
+                  "longitude" : 88.35193769999999
+               }
+            }
+         ],
+         "place_id" : "ChIJO5yhQO9wAjoRMwspNxMuAmE",
+         "plus_code" : 
+         {
+            "compound_code" : "F9P2+3Q Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9P2+3Q"
+         },
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Regent Colony",
+               "short_name" : "Regent Colony",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Regent Park, post offices Kolkata, Azadgarh, Regent Park, Regent Colony, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.485289,
+               "lng" : 88.351992
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4866379802915,
+                  "lng" : 88.35334098029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.48394001970849,
+                  "lng" : 88.3506430197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.4852989,
+                  "longitude" : 88.3520118
+               }
+            }
+         ],
+         "place_id" : "ChIJ-2iWQe9wAjoRl6m7CBzKHJ4",
+         "plus_code" : 
+         {
+            "compound_code" : "F9P2+4Q Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9P2+4Q"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "NSC Bose Road",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Regent Colony",
+               "short_name" : "Regent Colony",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "22, Netaji Subhash Chandra Bose Rd, Regent Colony, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.4851911,
+               "lng" : 88.35199759999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4865400802915,
+                  "lng" : 88.3533465802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.48384211970849,
+                  "lng" : 88.35064861970849
+               }
+            }
+         },
+         "place_id" : "EmIyMiwgTmV0YWppIFN1Ymhhc2ggQ2hhbmRyYSBCb3NlIFJkLCBSZWdlbnQgQ29sb255LCBSZWdlbnQgUGFyaywgS29sa2F0YSwgV2VzdCBCZW5nYWwgNzAwMDQwLCBJbmRpYSIaEhgKFAoSCStqhDjvcAI6EY-o_Iva4qkVEBY",
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "NSC Bose Road",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Regent Colony",
+               "short_name" : "Regent Colony",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Rd, Regent Colony, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4851716,
+                  "lng" : 88.35206960000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4850714,
+                  "lng" : 88.352009
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4851215,
+               "lng" : 88.3520393
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4864704802915,
+                  "lng" : 88.35338828029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4837725197085,
+                  "lng" : 88.35069031970849
+               }
+            }
+         },
+         "place_id" : "ChIJ11OoQe9wAjoRUkmiswUjyD0",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "F9P2+2R",
+               "short_name" : "F9P2+2R",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "F9P2+2R Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.485125,
+                  "lng" : 88.352125
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.485,
+                  "lng" : 88.35199999999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.485086,
+               "lng" : 88.3520278
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4864114802915,
+                  "lng" : 88.35341148029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4837135197085,
+                  "lng" : 88.35071351970849
+               }
+            }
+         },
+         "place_id" : "GhIJWb-ZmC58NkARGhKcn4cWVkA",
+         "plus_code" : 
+         {
+            "compound_code" : "F9P2+2R Kolkata, West Bengal, India",
+            "global_code" : "7MJCF9P2+2R"
+         },
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Regent Colony",
+               "short_name" : "Regent Colony",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Regent Colony, Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.488077,
+                  "lng" : 88.354444
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4850251,
+                  "lng" : 88.351032
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4867115,
+               "lng" : 88.35277119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.488077,
+                  "lng" : 88.354444
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4850251,
+                  "lng" : 88.351032
+               }
+            }
+         },
+         "place_id" : "ChIJWZSDrOhwAjoRIU7mTN1wl_U",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_2"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Regent Park",
+               "short_name" : "Regent Park",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Regent Park, Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4894657,
+                  "lng" : 88.36051860000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4796127,
+                  "lng" : 88.34637650000001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4874358,
+               "lng" : 88.35494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.4894657,
+                  "lng" : 88.36051860000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4796127,
+                  "lng" : 88.34637650000001
+               }
+            }
+         },
+         "place_id" : "ChIJTRr4AeRwAjoRdm_E_h4sYJg",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal 700040, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5004785,
+                  "lng" : 88.3648006
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.473105,
+                  "lng" : 88.33849529999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4868527,
+               "lng" : 88.350944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5004785,
+                  "lng" : 88.3648006
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.473105,
+                  "lng" : 88.33849529999999
+               }
+            }
+         },
+         "place_id" : "ChIJL1tryehwAjoRoLE5Hog8TJI",
+         "types" : 
+         [
+            "postal_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_4",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743495,
+               "lng" : 88.36287209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJSQj3vT53AjoRCGDPVMElHKo",
+         "types" : 
+         [
+            "administrative_area_level_4",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743545,
+               "lng" : 88.3628734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743499,
+               "lng" : 88.36287670000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJyxufaAB3AjoRzhRx7JWHIFw",
+         "types" : 
+         [
+            "administrative_area_level_3",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Presidency Division, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4234018,
+               "lng" : 88.63378399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            }
+         },
+         "place_id" : "ChIJSRZpzrGDAjoRZIV1cudPl5Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

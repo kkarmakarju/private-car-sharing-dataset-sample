@@ -1,0 +1,1460 @@
+{
+   "plus_code" : 
+   {
+      "compound_code" : "H9R9+X5J Kolkata, West Bengal, India",
+      "global_code" : "7MJCH9R9+X5J"
+   },
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "4A, Banamali Mitra Lane, Hari Ghosh Street, Manicktala, Darjipara, Darjipara, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.5923572,
+               "lng" : 88.36796289999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5937061802915,
+                  "lng" : 88.36931188029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5910082197085,
+                  "lng" : 88.3666139197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5923523,
+                  "longitude" : 88.3679856
+               }
+            }
+         ],
+         "place_id" : "ChIJdammozZ2AjoRdnyOSkELmZI",
+         "plus_code" : 
+         {
+            "compound_code" : "H9R9+W5 Kolkata, West Bengal, India",
+            "global_code" : "7MJCH9R9+W5"
+         },
+         "types" : 
+         [
+            "clothing_store",
+            "establishment",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "26/1",
+               "short_name" : "26/1",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "Manicktala",
+               "short_name" : "Manicktala",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "26/1, Manicktala, Darjipara, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.59254,
+               "lng" : 88.36773699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5938889802915,
+                  "lng" : 88.3690859802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5911910197085,
+                  "lng" : 88.36638801970849
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5925466,
+                  "longitude" : 88.3677153
+               }
+            }
+         ],
+         "place_id" : "ChIJfc7DoDZ2AjoRQ3dK2VICSBU",
+         "plus_code" : 
+         {
+            "compound_code" : "H9V9+23 Kolkata, West Bengal, India",
+            "global_code" : "7MJCH9V9+23"
+         },
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "28/5",
+               "short_name" : "28/5",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "Chidam Mudi Ramananda Lane",
+               "short_name" : "Chidam Mudi Ramananda Ln",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Manicktala",
+               "short_name" : "Manicktala",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "1, 28/5, Chidam Mudi Ramananda Ln, Manicktala, Darjipara, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5923264,
+                  "lng" : 88.36765579999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5921979,
+                  "lng" : 88.3675633
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5922627,
+               "lng" : 88.367611
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5936111302915,
+                  "lng" : 88.36895853029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5909131697085,
+                  "lng" : 88.36626056970849
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.592211,
+                  "longitude" : 88.3675915
+               }
+            }
+         ],
+         "place_id" : "ChIJA6T5HzR2AjoRlwHtirYaA5w",
+         "types" : 
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Mitra Street",
+               "short_name" : "Mitra St",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Manicktala",
+               "short_name" : "Manicktala",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Shobhabazar",
+               "short_name" : "Shobhabazar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "42, Mitra St, Manicktala, Darjipara, Shobhabazar, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.5927435,
+               "lng" : 88.3679829
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5940924802915,
+                  "lng" : 88.36933188029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.59139451970849,
+                  "lng" : 88.36663391970849
+               }
+            }
+         },
+         "place_id" : "ElQ0MiwgTWl0cmEgU3QsIE1hbmlja3RhbGEsIERhcmppcGFyYSwgU2hvYmhhYmF6YXIsIEtvbGthdGEsIFdlc3QgQmVuZ2FsIDcwMDAwNiwgSW5kaWEiGhIYChQKEgk91zmkNnYCOhHVpKMRqAhXTRAq",
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "H9R9+X5",
+               "short_name" : "H9R9+X5",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "H9R9+X5 Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5925,
+                  "lng" : 88.36799999999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.592375,
+                  "lng" : 88.367875
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5924732,
+               "lng" : 88.36788349999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5937864802915,
+                  "lng" : 88.36928648029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5910885197085,
+                  "lng" : 88.3665885197085
+               }
+            }
+         },
+         "place_id" : "GhIJqMHZUqyXNkARO088Z4sXVkA",
+         "plus_code" : 
+         {
+            "compound_code" : "H9R9+X5 Kolkata, West Bengal, India",
+            "global_code" : "7MJCH9R9+X5"
+         },
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Chidam Mudi Ramananda Lane",
+               "short_name" : "Chidam Mudi Ramananda Ln",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Shobhabazar",
+               "short_name" : "Shobhabazar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Chidam Mudi Ramananda Ln, Darjipara, Shobhabazar, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5926989,
+                  "lng" : 88.3681438
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5922177,
+                  "lng" : 88.36802139999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5924583,
+               "lng" : 88.36808259999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5938072802915,
+                  "lng" : 88.3694315802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5911093197085,
+                  "lng" : 88.3667336197085
+               }
+            }
+         },
+         "place_id" : "ChIJOw6pozZ2AjoRUA46tKO101E",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Darjipara, Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.595798,
+                  "lng" : 88.370902
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.589022,
+                  "lng" : 88.36380799999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5922343,
+               "lng" : 88.36642569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.595798,
+                  "lng" : 88.370902
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.589022,
+                  "lng" : 88.36380799999999
+               }
+            }
+         },
+         "place_id" : "ChIJj29qdjR2AjoRPgmh0BL7VNs",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_2"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal 700006, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.596822,
+                  "lng" : 88.3800028
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.58116,
+                  "lng" : 88.3476232
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5890726,
+               "lng" : 88.36875479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.596822,
+                  "lng" : 88.3800028
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.58116,
+                  "lng" : 88.3476232
+               }
+            }
+         },
+         "place_id" : "ChIJ1SbbQTV2AjoRlqpZm9hMqz0",
+         "types" : 
+         [
+            "postal_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_4",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743495,
+               "lng" : 88.36287209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJSQj3vT53AjoRCGDPVMElHKo",
+         "types" : 
+         [
+            "administrative_area_level_4",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743545,
+               "lng" : 88.3628734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743499,
+               "lng" : 88.36287670000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJyxufaAB3AjoRzhRx7JWHIFw",
+         "types" : 
+         [
+            "administrative_area_level_3",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Presidency Division, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4234018,
+               "lng" : 88.63378399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            }
+         },
+         "place_id" : "ChIJSRZpzrGDAjoRZIV1cudPl5Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

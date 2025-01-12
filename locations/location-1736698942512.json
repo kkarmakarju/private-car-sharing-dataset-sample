@@ -1,0 +1,1291 @@
+{
+   "plus_code" : 
+   {
+      "compound_code" : "G929+56M Kolkata, West Bengal, India",
+      "global_code" : "7MJCG929+56M"
+   },
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "G929+69J",
+               "short_name" : "G929+69J",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Poddar Nagar",
+               "short_name" : "Poddar Nagar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "G929+69J, Poddar Nagar, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.5005836,
+               "lng" : 88.3684035
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5019325802915,
+                  "lng" : 88.3697524802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4992346197085,
+                  "lng" : 88.36705451970849
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5007447,
+                  "longitude" : 88.36836889999999
+               }
+            }
+         ],
+         "place_id" : "ChIJe2Ir4cpxAjoRaprQeG0cbwo",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "G929+56",
+               "short_name" : "G929+56",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "G929+56 Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5005,
+                  "lng" : 88.36812499999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.500375,
+                  "lng" : 88.36799999999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5004723,
+               "lng" : 88.3680621
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5017864802915,
+                  "lng" : 88.36941148029149
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4990885197085,
+                  "lng" : 88.36671351970848
+               }
+            }
+         },
+         "place_id" : "GhIJzA3h8x6ANkARaplWVI4XVkA",
+         "plus_code" : 
+         {
+            "compound_code" : "G929+56 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG929+56"
+         },
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "196",
+               "short_name" : "196",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Raja Subodh Chandra Mallick Road",
+               "short_name" : "SC Mullick Road",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Jadavpur University Campus Area",
+               "short_name" : "Jadavpur University Campus Area",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "196, Raja Subodh Chandra Mallick Rd, Jadavpur University Campus Area, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.500817,
+               "lng" : 88.3688665
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5021659802915,
+                  "lng" : 88.37021548029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4994680197085,
+                  "lng" : 88.36751751970849
+               }
+            }
+         },
+         "place_id" : "EnIxOTYsIFJhamEgU3Vib2RoIENoYW5kcmEgTWFsbGljayBSZCwgSmFkYXZwdXIgVW5pdmVyc2l0eSBDYW1wdXMgQXJlYSwgSmFkYXZwdXIsIEtvbGthdGEsIFdlc3QgQmVuZ2FsIDcwMDAzMiwgSW5kaWEiGxIZChQKEgmnv41GJHECOhH-2l9qr3GxJRDEAQ",
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Prince Gulam Hussain Shah Road",
+               "short_name" : "Prince Gulam Hussain Shah Rd",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Poddar Nagar",
+               "short_name" : "Poddar Nagar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Prince Gulam Hussain Shah Rd, Poddar Nagar, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5000564,
+                  "lng" : 88.36936559999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4997651,
+                  "lng" : 88.36717
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.499998,
+               "lng" : 88.36828269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5012597302915,
+                  "lng" : 88.36961678029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.49856176970849,
+                  "lng" : 88.36691881970849
+               }
+            }
+         },
+         "place_id" : "ChIJ-Qz_FyRxAjoR1GSwBSWLtQE",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Poddar Nagar",
+               "short_name" : "Poddar Nagar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Poddar Nagar, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.502979,
+                  "lng" : 88.3707319
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.495958,
+                  "lng" : 88.36283899999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4998836,
+               "lng" : 88.36642569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.502979,
+                  "lng" : 88.3707319
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.495958,
+                  "lng" : 88.36283899999999
+               }
+            }
+         },
+         "place_id" : "ChIJRQAh3CZxAjoRoOS000olYsk",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_2"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal 700032, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.503933,
+                  "lng" : 88.37999789999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4841099,
+                  "lng" : 88.35693479999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4936901,
+               "lng" : 88.36926869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.503933,
+                  "lng" : 88.37999789999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4841099,
+                  "lng" : 88.35693479999999
+               }
+            }
+         },
+         "place_id" : "ChIJweysmiFxAjoRF3oyso4D08g",
+         "types" : 
+         [
+            "postal_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Jadavpur, Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5040889,
+                  "lng" : 88.3770251
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.484934,
+                  "lng" : 88.35696799999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4954988,
+               "lng" : 88.3709008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5040889,
+                  "lng" : 88.3770251
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.484934,
+                  "lng" : 88.35696799999999
+               }
+            }
+         },
+         "place_id" : "ChIJAUJ7JTtxAjoRg8pE8H-8P4I",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_4",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743495,
+               "lng" : 88.36287209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJSQj3vT53AjoRCGDPVMElHKo",
+         "types" : 
+         [
+            "administrative_area_level_4",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743545,
+               "lng" : 88.3628734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5743499,
+               "lng" : 88.36287670000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6188255,
+                  "lng" : 88.4610775
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.4520292,
+                  "lng" : 88.233628
+               }
+            }
+         },
+         "place_id" : "ChIJyxufaAB3AjoRzhRx7JWHIFw",
+         "types" : 
+         [
+            "administrative_area_level_3",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Presidency Division, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4234018,
+               "lng" : 88.63378399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            }
+         },
+         "place_id" : "ChIJSRZpzrGDAjoRZIV1cudPl5Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

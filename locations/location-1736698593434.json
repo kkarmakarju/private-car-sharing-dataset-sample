@@ -1,0 +1,1741 @@
+{
+   "plus_code" : 
+   {
+      "compound_code" : "HFG9+VFM New Town, West Bengal, India",
+      "global_code" : "7MJCHFG9+VFM"
+   },
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "CB161",
+               "short_name" : "CB161",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "CB Block(Newtown)",
+               "short_name" : "CB Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area 1C",
+               "short_name" : "AA-1C",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Block Cb",
+               "short_name" : "Block Cb",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "CB161, CB Block(Newtown), Action Area 1C, Block Cb, Bidhannagar, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5772456,
+                  "lng" : 88.4686813
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5771684,
+                  "lng" : 88.4685446
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.577207,
+               "lng" : 88.46861299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5785559802915,
+                  "lng" : 88.46996193029152
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.57585801970849,
+                  "lng" : 88.4672639697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5771831,
+                  "longitude" : 88.4687577
+               }
+            }
+         ],
+         "place_id" : "ChIJrebgszp1AjoRr1jn7XSLPQQ",
+         "types" : 
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "CB160",
+               "short_name" : "CB160",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "CB Block(Newtown)",
+               "short_name" : "CB Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area 1C",
+               "short_name" : "AA-1C",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Block Cb",
+               "short_name" : "Block Cb",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "CB160, CB Block(Newtown), Action Area 1C, Block Cb, Bidhannagar, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.577129,
+               "lng" : 88.46861299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5784779802915,
+                  "lng" : 88.4699619802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5757800197085,
+                  "lng" : 88.46726401970848
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5771099,
+                  "longitude" : 88.4687452
+               }
+            }
+         ],
+         "place_id" : "ChIJdSyVszp1AjoRmdXOOegU0bU",
+         "plus_code" : 
+         {
+            "compound_code" : "HFG9+VC New Town, West Bengal, India",
+            "global_code" : "7MJCHFG9+VC"
+         },
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "HFG9+WF6",
+               "short_name" : "HFG9+WF6",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Street Number 199",
+               "short_name" : "Street Number 199",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "CB Block(Newtown)",
+               "short_name" : "CB Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area I",
+               "short_name" : "AA I",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "HFG9+WF6, Street Number 199, CB Block(Newtown), Action Area I, Newtown, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.5772982,
+               "lng" : 88.4686344
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5786471802915,
+                  "lng" : 88.46998338029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.57594921970849,
+                  "lng" : 88.4672854197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 22.5773441,
+                  "longitude" : 88.4686434
+               }
+            }
+         ],
+         "place_id" : "ChIJs90oVDJ1AjoRj40FD4sxRT8",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "131",
+               "short_name" : "131",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Street Number 256",
+               "short_name" : "Street Number 256",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "CC Block(Newtown)",
+               "short_name" : "CC Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area I",
+               "short_name" : "AA I",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "131, Street Number 256, CC Block(Newtown), Action Area I, Newtown, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 22.5770991,
+               "lng" : 88.46881239999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5784480802915,
+                  "lng" : 88.4701613802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.57575011970849,
+                  "lng" : 88.46746341970849
+               }
+            }
+         },
+         "place_id" : "ElMxMzEsIFN0cmVldCBOdW1iZXIgMjU2LCBBY3Rpb24gQXJlYSBJLCBOZXd0b3duLCBOZXcgVG93biwgV2VzdCBCZW5nYWwgNzAwMTU2LCBJbmRpYSIbEhkKFAoSCSe7XbI6dQI6ESvTYiq7uq_nEIMB",
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "HFG9+VF",
+               "short_name" : "HFG9+VF",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "HFG9+VF New Town, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.57725,
+                  "lng" : 88.46875
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.577125,
+                  "lng" : 88.468625
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5772017,
+               "lng" : 88.4686655
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5785364802915,
+                  "lng" : 88.47003648029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5758385197085,
+                  "lng" : 88.46733851970851
+               }
+            }
+         },
+         "place_id" : "GhIJE7KYfcOTNkAR3dCUnf4dVkA",
+         "plus_code" : 
+         {
+            "compound_code" : "HFG9+VF New Town, West Bengal, India",
+            "global_code" : "7MJCHFG9+VF"
+         },
+         "types" : 
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Street Number 256",
+               "short_name" : "Street Number 256",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "CC Block(Newtown)",
+               "short_name" : "CC Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area I",
+               "short_name" : "AA I",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "160, Street Number 256, CC Block(Newtown), Action Area I, Newtown, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5772402,
+                  "lng" : 88.4688364
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5768707,
+                  "lng" : 88.4687737
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5770555,
+               "lng" : 88.46880499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5784044302915,
+                  "lng" : 88.47015403029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5757064697085,
+                  "lng" : 88.46745606970849
+               }
+            }
+         },
+         "place_id" : "ChIJJ7tdsjp1AjoRKtNiKru6r-c",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "CB Block(Newtown)",
+               "short_name" : "CB Block(Newtown)",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Action Area I",
+               "short_name" : "AA I",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "CB Block(Newtown), Action Area I, Newtown, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5795409,
+                  "lng" : 88.46908089999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5748054,
+                  "lng" : 88.4650147
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5775863,
+               "lng" : 88.46763750000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.5795409,
+                  "lng" : 88.46908089999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5748054,
+                  "lng" : 88.4650147
+               }
+            }
+         },
+         "place_id" : "ChIJxQ_81Tp1AjoRO5_4iu46rBg",
+         "types" : 
+         [
+            "neighborhood",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Action Area 1C",
+               "short_name" : "AA-1C",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Action Area 1C, Newtown, New Town, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.581205,
+                  "lng" : 88.4713125
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5731213,
+                  "lng" : 88.4510566
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5782678,
+               "lng" : 88.4609782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.581205,
+                  "lng" : 88.4713125
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5731213,
+                  "lng" : 88.4510566
+               }
+            }
+         },
+         "place_id" : "ChIJhb6o0iJ1AjoR0v2m0mjP0I4",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_3"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "700156",
+               "short_name" : "700156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Kolkata, West Bengal 700156, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6103043,
+                  "lng" : 88.48955389999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5639695,
+                  "lng" : 88.43744559999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5837286,
+               "lng" : 88.46956560000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6103043,
+                  "lng" : 88.48955389999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5639695,
+                  "lng" : 88.43744559999999
+               }
+            }
+         },
+         "place_id" : "ChIJQSKQkTx1AjoR-WeBBvuB7jU",
+         "types" : 
+         [
+            "postal_code"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "New Town",
+               "short_name" : "New Town",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "New Town, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6340398,
+                  "lng" : 88.52201699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5490056,
+                  "lng" : 88.442245
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5785868,
+               "lng" : 88.471852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6340398,
+                  "lng" : 88.52201699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5490056,
+                  "lng" : 88.442245
+               }
+            }
+         },
+         "place_id" : "ChIJv2O_eUp1AjoRgDkOwOPCvLs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Newtown, Kolkata, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6341169,
+                  "lng" : 88.5446149
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.538195,
+                  "lng" : 88.44098699999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.5753931,
+               "lng" : 88.47979029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.6341169,
+                  "lng" : 88.5446149
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.538195,
+                  "lng" : 88.44098699999999
+               }
+            }
+         },
+         "place_id" : "ChIJuaWYAzV1AjoRJTQyRLJl4XU",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Barasat",
+               "short_name" : "Barasat",
+               "types" : 
+               [
+                  "administrative_area_level_4",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Barasat, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.9352256,
+                  "lng" : 88.7913823
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5497806,
+                  "lng" : 88.4136669
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.7191895,
+               "lng" : 88.4855568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 22.9352256,
+                  "lng" : 88.7913823
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.5497806,
+                  "lng" : 88.4136669
+               }
+            }
+         },
+         "place_id" : "ChIJ8R7lUrCl-DkRnDm1R-GDuaA",
+         "types" : 
+         [
+            "administrative_area_level_4",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "North 24 Parganas, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.2560878,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.1224295,
+                  "lng" : 88.33179919999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.710047,
+               "lng" : 88.7108964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.2560878,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 22.1224295,
+                  "lng" : 88.33179919999999
+               }
+            }
+         },
+         "place_id" : "ChIJv975mQSi-DkRI4iUx-rgj0Q",
+         "types" : 
+         [
+            "administrative_area_level_3",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Presidency Division",
+               "short_name" : "Presidency Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Presidency Division, West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.4234018,
+               "lng" : 88.63378399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 24.0947088,
+                  "lng" : 89.0980179
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 87.8433489
+               }
+            }
+         },
+         "place_id" : "ChIJSRZpzrGDAjoRZIV1cudPl5Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "West Bengal, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            },
+            "location" : 
+            {
+               "lat" : 22.9867569,
+               "lng" : 87.85497549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 27.2210673,
+                  "lng" : 89.8826021
+               },
+               "southwest" : 
+               {
+                  "lat" : 21.5270814,
+                  "lng" : 85.8196734
+               }
+            }
+         },
+         "place_id" : "ChIJh-iXE_8W-jkRCqLnwz06VHE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.6733149,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
